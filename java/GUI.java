@@ -326,8 +326,8 @@ public class GUI{
 		JLabel menuLabel = new JLabel();
 		menuLabel.setBackground(new Color(0,0,0));
 		menuLabel.setFont(new Font("Courier new",Font.BOLD,60));
-		menuLabel.setText("Blackjack");
-		menuLabel.setBounds(325,150,380,60);
+		menuLabel.setText("21 Card Game");
+		menuLabel.setBounds(275,150,435,60);
 		MainMenu.add(menuLabel);
 				
 		//new game button on main menu panel
